@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 710c1cf9519dc194ebba6637c2ffbf64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - useCard: {instanceID: 0}
+  - matchCard: {instanceID: 0}
+  - card1: {fileID: 6388375771404092503, guid: 26af3ff5dcd83a14d8e80b5eec88f311, type: 3}
+  - card2: {fileID: 6388375771404092503, guid: e8dd390a02fbb9a4da3e0301eb0150c7, type: 3}
+  - card3: {fileID: 6388375771404092503, guid: 868a30a4fcdc6b241a5ed505abaa556d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
