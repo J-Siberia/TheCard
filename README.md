@@ -1,2 +1,5 @@
 # TheCard
-Unityで〇ibrary of 〇inaを再現したかった... 
+Unityで某カードゲームを再現したかった何か
+
+# デモ動画
+https://youtu.be/RZNfkbBY_XA
